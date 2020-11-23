@@ -1,0 +1,1021 @@
+
+  '2295':
+    SA1090_A96213A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2640/results/hmmcopy/A96213A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2640/results/variant_calling/sample_SA1090/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2640/results/variant_calling/sample_SA1090/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2640/results/variant_calling/sample_SA1090/strelka_snv.vcf.gz
+    SA921_A90554A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3441/results/hmmcopy/A90554A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3441/results/variant_calling/sample_SA921/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3441/results/variant_calling/sample_SA921/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3441/results/variant_calling/sample_SA921/strelka_snv.vcf.gz
+    SA922_A90554B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3442/results/hmmcopy/A90554B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3442/results/variant_calling/sample_SA922/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3442/results/variant_calling/sample_SA922/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3442/results/variant_calling/sample_SA922/strelka_snv.vcf.gz
+  DG1134:
+    SA1105_A96168B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3486/results/hmmcopy/A96168B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3486/results/variant_calling/sample_SA1105/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3486/results/variant_calling/sample_SA1105/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3486/results/variant_calling/sample_SA1105/strelka_snv.vcf.gz
+  DG1197:
+    SA1106_A96168B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3486/results/hmmcopy/A96168B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3486/results/variant_calling/sample_SA1106/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3486/results/variant_calling/sample_SA1106/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3486/results/variant_calling/sample_SA1106/strelka_snv.vcf.gz
+  SA039:
+    SA039_A73047D:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2619/results/hmmcopy/A73047D_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2619/results/variant_calling/sample_SA039/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2619/results/variant_calling/sample_SA039/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2619/results/variant_calling/sample_SA039/strelka_snv.vcf.gz
+    SA039_A96199B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3008/results/hmmcopy/A96199B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3008/results/variant_calling/sample_SA039/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3008/results/variant_calling/sample_SA039/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3008/results/variant_calling/sample_SA039/strelka_snv.vcf.gz
+    SA039_A96226B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3019/results/hmmcopy/A96226B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3019/results/variant_calling/sample_SA039/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3019/results/variant_calling/sample_SA039/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3019/results/variant_calling/sample_SA039/strelka_snv.vcf.gz
+  SA1035:
+    SA1035X4XB02879_A95626A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3141/results/hmmcopy/A95626A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3141/results/variant_calling/sample_SA1035X4XB02879/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3141/results/variant_calling/sample_SA1035X4XB02879/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3141/results/variant_calling/sample_SA1035X4XB02879/strelka_snv.vcf.gz
+    SA1035X4XB02879_A95646A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3861/results/hmmcopy/A95646A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3861/results/variant_calling/sample_SA1035X4XB02879/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3861/results/variant_calling/sample_SA1035X4XB02879/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3861/results/variant_calling/sample_SA1035X4XB02879/strelka_snv.vcf.gz
+    SA1035X5XB03021_A95731B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3058/results/hmmcopy/A95731B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3058/results/variant_calling/sample_SA1035X5XB03021/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3058/results/variant_calling/sample_SA1035X5XB03021/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3058/results/variant_calling/sample_SA1035X5XB03021/strelka_snv.vcf.gz
+    SA1035X6XB03216_A95623B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3053/results/hmmcopy/A95623B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3053/results/variant_calling/sample_SA1035X6XB03216/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3053/results/variant_calling/sample_SA1035X6XB03216/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3053/results/variant_calling/sample_SA1035X6XB03216/strelka_snv.vcf.gz
+    SA1035X7XB03502_A98251B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3195/results/hmmcopy/A98251B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3195/results/variant_calling/sample_SA1035X7XB03502/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3195/results/variant_calling/sample_SA1035X7XB03502/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3195/results/variant_calling/sample_SA1035X7XB03502/strelka_snv.vcf.gz
+    SA1035X7XB03502_A98290B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3354/results/hmmcopy/A98290B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3354/results/variant_calling/sample_SA1035X7XB03502/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3354/results/variant_calling/sample_SA1035X7XB03502/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3354/results/variant_calling/sample_SA1035X7XB03502/strelka_snv.vcf.gz
+  SA1047:
+    SA1047B_A96210B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2660/results/hmmcopy/A96210B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2660/results/variant_calling/sample_SA1047B/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2660/results/variant_calling/sample_SA1047B/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2660/results/variant_calling/sample_SA1047B/strelka_snv.vcf.gz
+  SA1049:
+    SA1049AX1XB01417_A95652B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3349/results/hmmcopy/A95652B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3349/results/variant_calling/sample_SA1049AX1XB01417/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3349/results/variant_calling/sample_SA1049AX1XB01417/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3349/results/variant_calling/sample_SA1049AX1XB01417/strelka_snv.vcf.gz
+    SA1049AX1XB01417_A96113A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3365/results/hmmcopy/A96113A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3365/results/variant_calling/sample_SA1049AX1XB01417/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3365/results/variant_calling/sample_SA1049AX1XB01417/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3365/results/variant_calling/sample_SA1049AX1XB01417/strelka_snv.vcf.gz
+    SA1049AX1XB01417_A96205B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3300/results/hmmcopy/A96205B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3300/results/variant_calling/sample_SA1049AX1XB01417/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3300/results/variant_calling/sample_SA1049AX1XB01417/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3300/results/variant_calling/sample_SA1049AX1XB01417/strelka_snv.vcf.gz
+    SA1049CX1XB01421_A96189A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3303/results/hmmcopy/A96189A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3303/results/variant_calling/sample_SA1049CX1XB01421/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3303/results/variant_calling/sample_SA1049CX1XB01421/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3303/results/variant_calling/sample_SA1049CX1XB01421/strelka_snv.vcf.gz
+  SA1050:
+    SA1050AX1XB01436_A98181A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3073/results/hmmcopy/A98181A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3073/results/variant_calling/sample_SA1050AX1XB01436/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3073/results/variant_calling/sample_SA1050AX1XB01436/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3073/results/variant_calling/sample_SA1050AX1XB01436/strelka_snv.vcf.gz
+    SA1050AX1XB01436_A98279A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3798/results/hmmcopy/A98279A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3798/results/variant_calling/sample_SA1050AX1XB01436/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3798/results/variant_calling/sample_SA1050AX1XB01436/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3798/results/variant_calling/sample_SA1050AX1XB01436/strelka_snv.vcf.gz
+    SA1050DX1XB01437_A95717B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2684/results/hmmcopy/A95717B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2684/results/variant_calling/sample_SA1050DX1XB01437/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2684/results/variant_calling/sample_SA1050DX1XB01437/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2684/results/variant_calling/sample_SA1050DX1XB01437/strelka_snv.vcf.gz
+    SA1050FX1XB01446_A96206B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2685/results/hmmcopy/A96206B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2685/results/variant_calling/sample_SA1050FX1XB01446/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2685/results/variant_calling/sample_SA1050FX1XB01446/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2685/results/variant_calling/sample_SA1050FX1XB01446/strelka_snv.vcf.gz
+  SA1051:
+    SA1051AX1XB01452_A96190B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2686/results/hmmcopy/A96190B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2686/results/variant_calling/sample_SA1051AX1XB01452/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2686/results/variant_calling/sample_SA1051AX1XB01452/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2686/results/variant_calling/sample_SA1051AX1XB01452/strelka_snv.vcf.gz
+    SA1051AX1XB01452_A96207A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2727/results/hmmcopy/A96207A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2727/results/variant_calling/sample_SA1051AX1XB01452/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2727/results/variant_calling/sample_SA1051AX1XB01452/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2727/results/variant_calling/sample_SA1051AX1XB01452/strelka_snv.vcf.gz
+    SA1051DX1XB01482_A95629B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2687/results/hmmcopy/A95629B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2687/results/variant_calling/sample_SA1051DX1XB01482/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2687/results/variant_calling/sample_SA1051DX1XB01482/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2687/results/variant_calling/sample_SA1051DX1XB01482/strelka_snv.vcf.gz
+  SA1052:
+    SA1052BX1XB01516_A96207B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2533/results/hmmcopy/A96207B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2533/results/variant_calling/sample_SA1052BX1XB01516/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2533/results/variant_calling/sample_SA1052BX1XB01516/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2533/results/variant_calling/sample_SA1052BX1XB01516/strelka_snv.vcf.gz
+    SA1052DX1XB01519_A96200B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2534/results/hmmcopy/A96200B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2534/results/variant_calling/sample_SA1052DX1XB01519/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2534/results/variant_calling/sample_SA1052DX1XB01519/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2534/results/variant_calling/sample_SA1052DX1XB01519/strelka_snv.vcf.gz
+    SA1052DX1XB01519_A98243B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3801/results/hmmcopy/A98243B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3801/results/variant_calling/sample_SA1052DX1XB01519/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3801/results/variant_calling/sample_SA1052DX1XB01519/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3801/results/variant_calling/sample_SA1052DX1XB01519/strelka_snv.vcf.gz
+    SA1052JX1XB01535_A95650A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2535/results/hmmcopy/A95650A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2535/results/variant_calling/sample_SA1052JX1XB01535/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2535/results/variant_calling/sample_SA1052JX1XB01535/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2535/results/variant_calling/sample_SA1052JX1XB01535/strelka_snv.vcf.gz
+  SA1053:
+    SA1053BX1XB01603_A96194A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2688/results/hmmcopy/A96194A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2688/results/variant_calling/sample_SA1053BX1XB01603/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2688/results/variant_calling/sample_SA1053BX1XB01603/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2688/results/variant_calling/sample_SA1053BX1XB01603/strelka_snv.vcf.gz
+    SA1053EX1XB01608_A96194B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2689/results/hmmcopy/A96194B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2689/results/variant_calling/sample_SA1053EX1XB01608/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2689/results/variant_calling/sample_SA1053EX1XB01608/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2689/results/variant_calling/sample_SA1053EX1XB01608/strelka_snv.vcf.gz
+    SA1053FX1XB01611_A95663A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2690/results/hmmcopy/A95663A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2690/results/variant_calling/sample_SA1053FX1XB01611/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2690/results/variant_calling/sample_SA1053FX1XB01611/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2690/results/variant_calling/sample_SA1053FX1XB01611/strelka_snv.vcf.gz
+  SA1054:
+    SA1054_A95632A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2963/results/hmmcopy/A95632A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2963/results/variant_calling/sample_SA1054/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2963/results/variant_calling/sample_SA1054/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2963/results/variant_calling/sample_SA1054/strelka_snv.vcf.gz
+  SA1055:
+    SA1055_A95621A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2964/results/hmmcopy/A95621A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2964/results/variant_calling/sample_SA1055/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2964/results/variant_calling/sample_SA1055/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2964/results/variant_calling/sample_SA1055/strelka_snv.vcf.gz
+  SA1056:
+    SA1056_A95635A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2965/results/hmmcopy/A95635A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2965/results/variant_calling/sample_SA1056/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2965/results/variant_calling/sample_SA1056/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2965/results/variant_calling/sample_SA1056/strelka_snv.vcf.gz
+  SA1091:
+    SA1091AX1XB01790_A95634A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3785/results/hmmcopy/A95634A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3785/results/variant_calling/sample_SA1091AX1XB01790/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3785/results/variant_calling/sample_SA1091AX1XB01790/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3785/results/variant_calling/sample_SA1091AX1XB01790/strelka_snv.vcf.gz
+  SA1093:
+    SA1093CX1XB01917_A96192A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3783/results/hmmcopy/A96192A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3783/results/variant_calling/sample_SA1093CX1XB01917/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3783/results/variant_calling/sample_SA1093CX1XB01917/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3783/results/variant_calling/sample_SA1093CX1XB01917/strelka_snv.vcf.gz
+  SA1096:
+    SA1096AX1XB02034_A95717A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3840/results/hmmcopy/A95717A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3840/results/variant_calling/sample_SA1096AX1XB02034/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3840/results/variant_calling/sample_SA1096AX1XB02034/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3840/results/variant_calling/sample_SA1096AX1XB02034/strelka_snv.vcf.gz
+  SA1101a:
+    SA1101_A96155C:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2753/results/hmmcopy/A96155C_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2753/results/variant_calling/sample_SA1101/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2753/results/variant_calling/sample_SA1101/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2753/results/variant_calling/sample_SA1101/strelka_snv.vcf.gz
+    SA1101_A96162A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2752/results/hmmcopy/A96162A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2752/results/variant_calling/sample_SA1101/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2752/results/variant_calling/sample_SA1101/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2752/results/variant_calling/sample_SA1101/strelka_snv.vcf.gz
+    SA1101_A96181C:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2745/results/hmmcopy/A96181C_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2745/results/variant_calling/sample_SA1101/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2745/results/variant_calling/sample_SA1101/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2745/results/variant_calling/sample_SA1101/strelka_snv.vcf.gz
+    SA1101_A96183B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3581/results/hmmcopy/A96183B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3581/results/variant_calling/sample_SA1101/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3581/results/variant_calling/sample_SA1101/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3581/results/variant_calling/sample_SA1101/strelka_snv.vcf.gz
+    SA1101_A96193B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3251/results/hmmcopy/A96193B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3251/results/variant_calling/sample_SA1101/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3251/results/variant_calling/sample_SA1101/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3251/results/variant_calling/sample_SA1101/strelka_snv.vcf.gz
+    SA1101_A96225B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2747/results/hmmcopy/A96225B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2747/results/variant_calling/sample_SA1101/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2747/results/variant_calling/sample_SA1101/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2747/results/variant_calling/sample_SA1101/strelka_snv.vcf.gz
+    SA1101_A96225C:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2748/results/hmmcopy/A96225C_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2748/results/variant_calling/sample_SA1101/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2748/results/variant_calling/sample_SA1101/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2748/results/variant_calling/sample_SA1101/strelka_snv.vcf.gz
+    SA1101_A96240A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3235/results/hmmcopy/A96240A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3235/results/variant_calling/sample_SA1101/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3235/results/variant_calling/sample_SA1101/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3235/results/variant_calling/sample_SA1101/strelka_snv.vcf.gz
+    SA1101_A96240B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3234/results/hmmcopy/A96240B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3234/results/variant_calling/sample_SA1101/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3234/results/variant_calling/sample_SA1101/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3234/results/variant_calling/sample_SA1101/strelka_snv.vcf.gz
+  SA1101b:
+    SA1101_A95634B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3253/results/hmmcopy/A95634B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3253/results/variant_calling/sample_SA1101/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3253/results/variant_calling/sample_SA1101/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3253/results/variant_calling/sample_SA1101/strelka_snv.vcf.gz
+    SA1101_A95663B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3259/results/hmmcopy/A95663B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3259/results/variant_calling/sample_SA1101/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3259/results/variant_calling/sample_SA1101/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3259/results/variant_calling/sample_SA1101/strelka_snv.vcf.gz
+    SA1101_A95668B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3250/results/hmmcopy/A95668B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3250/results/variant_calling/sample_SA1101/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3250/results/variant_calling/sample_SA1101/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3250/results/variant_calling/sample_SA1101/strelka_snv.vcf.gz
+    SA1101_A95697B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2755/results/hmmcopy/A95697B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2755/results/variant_calling/sample_SA1101/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2755/results/variant_calling/sample_SA1101/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2755/results/variant_calling/sample_SA1101/strelka_snv.vcf.gz
+    SA1101_A95700A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2756/results/hmmcopy/A95700A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2756/results/variant_calling/sample_SA1101/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2756/results/variant_calling/sample_SA1101/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2756/results/variant_calling/sample_SA1101/strelka_snv.vcf.gz
+    SA1101_A95723A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2757/results/hmmcopy/A95723A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2757/results/variant_calling/sample_SA1101/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2757/results/variant_calling/sample_SA1101/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2757/results/variant_calling/sample_SA1101/strelka_snv.vcf.gz
+    SA1101_A96114A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3223/results/hmmcopy/A96114A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3223/results/variant_calling/sample_SA1101/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3223/results/variant_calling/sample_SA1101/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3223/results/variant_calling/sample_SA1101/strelka_snv.vcf.gz
+    SA1101_A96118A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2761/results/hmmcopy/A96118A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2761/results/variant_calling/sample_SA1101/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2761/results/variant_calling/sample_SA1101/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2761/results/variant_calling/sample_SA1101/strelka_snv.vcf.gz
+    SA1101_A96120A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2760/results/hmmcopy/A96120A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2760/results/variant_calling/sample_SA1101/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2760/results/variant_calling/sample_SA1101/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2760/results/variant_calling/sample_SA1101/strelka_snv.vcf.gz
+    SA1101_A96124B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3262/results/hmmcopy/A96124B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3262/results/variant_calling/sample_SA1101/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3262/results/variant_calling/sample_SA1101/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3262/results/variant_calling/sample_SA1101/strelka_snv.vcf.gz
+    SA1101_A96190A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3242/results/hmmcopy/A96190A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3242/results/variant_calling/sample_SA1101/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3242/results/variant_calling/sample_SA1101/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3242/results/variant_calling/sample_SA1101/strelka_snv.vcf.gz
+    SA1101_A96233B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3236/results/hmmcopy/A96233B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3236/results/variant_calling/sample_SA1101/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3236/results/variant_calling/sample_SA1101/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3236/results/variant_calling/sample_SA1101/strelka_snv.vcf.gz
+    SA1101_A98271A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2831/results/hmmcopy/A98271A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2831/results/variant_calling/sample_SA1101/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2831/results/variant_calling/sample_SA1101/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2831/results/variant_calling/sample_SA1101/strelka_snv.vcf.gz
+    SA1101_A98274B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3249/results/hmmcopy/A98274B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3249/results/variant_calling/sample_SA1101/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3249/results/variant_calling/sample_SA1101/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3249/results/variant_calling/sample_SA1101/strelka_snv.vcf.gz
+    SA1101_A98295B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3090/results/hmmcopy/A98295B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3090/results/variant_calling/sample_SA1101/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3090/results/variant_calling/sample_SA1101/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3090/results/variant_calling/sample_SA1101/strelka_snv.vcf.gz
+  SA1142:
+    SA1142X2XB06032_A108761A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3764/results/hmmcopy/A108761A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3764/results/variant_calling/sample_SA1142X2XB06032/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3764/results/variant_calling/sample_SA1142X2XB06032/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3764/results/variant_calling/sample_SA1142X2XB06032/strelka_snv.vcf.gz
+    SA1142X2XB06032_A108847A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3870/results/hmmcopy/A108847A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3870/results/variant_calling/sample_SA1142X2XB06032/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3870/results/variant_calling/sample_SA1142X2XB06032/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3870/results/variant_calling/sample_SA1142X2XB06032/strelka_snv.vcf.gz
+    SA1142X2XB09021_A95700B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2924/results/hmmcopy/A95700B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2924/results/variant_calling/sample_SA1142X2XB09021/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2924/results/variant_calling/sample_SA1142X2XB09021/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2924/results/variant_calling/sample_SA1142X2XB09021/strelka_snv.vcf.gz
+  SA1162:
+    SA1162SA_A95668A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2799/results/hmmcopy/A95668A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2799/results/variant_calling/sample_SA1162SA/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2799/results/variant_calling/sample_SA1162SA/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2799/results/variant_calling/sample_SA1162SA/strelka_snv.vcf.gz
+    SA1162SA_A96142B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2800/results/hmmcopy/A96142B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2800/results/variant_calling/sample_SA1162SA/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2800/results/variant_calling/sample_SA1162SA/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2800/results/variant_calling/sample_SA1162SA/strelka_snv.vcf.gz
+    SA1162SA_A96154A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3860/results/hmmcopy/A96154A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3860/results/variant_calling/sample_SA1162SA/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3860/results/variant_calling/sample_SA1162SA/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3860/results/variant_calling/sample_SA1162SA/strelka_snv.vcf.gz
+    SA1162SB_A95628A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3788/results/hmmcopy/A95628A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3788/results/variant_calling/sample_SA1162SB/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3788/results/variant_calling/sample_SA1162SB/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3788/results/variant_calling/sample_SA1162SB/strelka_snv.vcf.gz
+  SA1181:
+    SA1181AX1XB02700_A108765A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3958/results/hmmcopy/A108765A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3958/results/variant_calling/sample_SA1181AX1XB02700/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3958/results/variant_calling/sample_SA1181AX1XB02700/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3958/results/variant_calling/sample_SA1181AX1XB02700/strelka_snv.vcf.gz
+  SA1182:
+    SA1182EX1XB02724_A108847B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3864/results/hmmcopy/A108847B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3864/results/variant_calling/sample_SA1182EX1XB02724/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3864/results/variant_calling/sample_SA1182EX1XB02724/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3864/results/variant_calling/sample_SA1182EX1XB02724/strelka_snv.vcf.gz
+  SA1184:
+    SA1184DX1XB02813_A118797B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-4013/results/hmmcopy/A118797B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-4013/results/variant_calling/sample_SA1184DX1XB02813/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-4013/results/variant_calling/sample_SA1184DX1XB02813/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-4013/results/variant_calling/sample_SA1184DX1XB02813/strelka_snv.vcf.gz
+  SA1188:
+    SA1188_A95618B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3355/results/hmmcopy/A95618B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3355/results/variant_calling/sample_SA1188/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3355/results/variant_calling/sample_SA1188/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3355/results/variant_calling/sample_SA1188/strelka_snv.vcf.gz
+    SA1188_A95652A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3357/results/hmmcopy/A95652A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3357/results/variant_calling/sample_SA1188/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3357/results/variant_calling/sample_SA1188/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3357/results/variant_calling/sample_SA1188/strelka_snv.vcf.gz
+  SA501:
+    SA501X11XB00529_A96174A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2871/results/hmmcopy/A96174A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2871/results/variant_calling/sample_SA501X11XB00529/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2871/results/variant_calling/sample_SA501X11XB00529/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2871/results/variant_calling/sample_SA501X11XB00529/strelka_snv.vcf.gz
+    SA501X11XB00529_A96187A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3567/results/hmmcopy/A96187A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3567/results/variant_calling/sample_SA501X11XB00529/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3567/results/variant_calling/sample_SA501X11XB00529/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3567/results/variant_calling/sample_SA501X11XB00529/strelka_snv.vcf.gz
+    SA501X15XB00929_A96173A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2873/results/hmmcopy/A96173A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2873/results/variant_calling/sample_SA501X15XB00929/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2873/results/variant_calling/sample_SA501X15XB00929/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2873/results/variant_calling/sample_SA501X15XB00929/strelka_snv.vcf.gz
+    SA501X2XB00096_A95621B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2966/results/hmmcopy/A95621B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2966/results/variant_calling/sample_SA501X2XB00096/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2966/results/variant_calling/sample_SA501X2XB00096/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2966/results/variant_calling/sample_SA501X2XB00096/strelka_snv.vcf.gz
+    SA501X2XB00097_A96109A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2936/results/hmmcopy/A96109A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2936/results/variant_calling/sample_SA501X2XB00097/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2936/results/variant_calling/sample_SA501X2XB00097/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2936/results/variant_calling/sample_SA501X2XB00097/strelka_snv.vcf.gz
+    SA501X2XB00097_A96171A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2937/results/hmmcopy/A96171A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2937/results/variant_calling/sample_SA501X2XB00097/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2937/results/variant_calling/sample_SA501X2XB00097/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2937/results/variant_calling/sample_SA501X2XB00097/strelka_snv.vcf.gz
+    SA501X5XB00877_A95670A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2967/results/hmmcopy/A95670A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2967/results/variant_calling/sample_SA501X5XB00877/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2967/results/variant_calling/sample_SA501X5XB00877/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2967/results/variant_calling/sample_SA501X5XB00877/strelka_snv.vcf.gz
+    SA501X6XB00294_A96213A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2640/results/hmmcopy/A96213A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2640/results/variant_calling/sample_SA501X6XB00294/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2640/results/variant_calling/sample_SA501X6XB00294/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2640/results/variant_calling/sample_SA501X6XB00294/strelka_snv.vcf.gz
+    SA501X6XB00969_A95670B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2968/results/hmmcopy/A95670B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2968/results/variant_calling/sample_SA501X6XB00969/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2968/results/variant_calling/sample_SA501X6XB00969/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2968/results/variant_calling/sample_SA501X6XB00969/strelka_snv.vcf.gz
+    SA501X8XB01694_A90696ABC:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3782/results/hmmcopy/A90696ABC_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3782/results/variant_calling/sample_SA501X8XB01694/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3782/results/variant_calling/sample_SA501X8XB01694/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3782/results/variant_calling/sample_SA501X8XB01694/strelka_snv.vcf.gz
+    SA501X8XB01694_A90697ABC:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3839/results/hmmcopy/A90697ABC_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3839/results/variant_calling/sample_SA501X8XB01694/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3839/results/variant_calling/sample_SA501X8XB01694/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3839/results/variant_calling/sample_SA501X8XB01694/strelka_snv.vcf.gz
+  SA530:
+    SA530X3XB03295_A98240A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3359/results/hmmcopy/A98240A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3359/results/variant_calling/sample_SA530X3XB03295/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3359/results/variant_calling/sample_SA530X3XB03295/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3359/results/variant_calling/sample_SA530X3XB03295/strelka_snv.vcf.gz
+    SA530X3XB03295_A98247A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3080/results/hmmcopy/A98247A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3080/results/variant_calling/sample_SA530X3XB03295/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3080/results/variant_calling/sample_SA530X3XB03295/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3080/results/variant_calling/sample_SA530X3XB03295/strelka_snv.vcf.gz
+  SA532:
+    SA532X1XB00118_A96157C:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3041/results/hmmcopy/A96157C_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3041/results/variant_calling/sample_SA532X1XB00118/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3041/results/variant_calling/sample_SA532X1XB00118/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3041/results/variant_calling/sample_SA532X1XB00118/strelka_snv.vcf.gz
+    SA532X2XB00147_A96165A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2571/results/hmmcopy/A96165A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2571/results/variant_calling/sample_SA532X2XB00147/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2571/results/variant_calling/sample_SA532X2XB00147/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2571/results/variant_calling/sample_SA532X2XB00147/strelka_snv.vcf.gz
+    SA532X3XB00210_A96179B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2572/results/hmmcopy/A96179B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2572/results/variant_calling/sample_SA532X3XB00210/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2572/results/variant_calling/sample_SA532X3XB00210/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2572/results/variant_calling/sample_SA532X3XB00210/strelka_snv.vcf.gz
+    SA532X3XB00210_A96186C:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3033/results/hmmcopy/A96186C_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3033/results/variant_calling/sample_SA532X3XB00210/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3033/results/variant_calling/sample_SA532X3XB00210/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3033/results/variant_calling/sample_SA532X3XB00210/strelka_snv.vcf.gz
+    SA532X4XB00273_A95732B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2574/results/hmmcopy/A95732B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2574/results/variant_calling/sample_SA532X4XB00273/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2574/results/variant_calling/sample_SA532X4XB00273/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2574/results/variant_calling/sample_SA532X4XB00273/strelka_snv.vcf.gz
+    SA532X5XB00478_A96174B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2575/results/hmmcopy/A96174B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2575/results/variant_calling/sample_SA532X5XB00478/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2575/results/variant_calling/sample_SA532X5XB00478/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2575/results/variant_calling/sample_SA532X5XB00478/strelka_snv.vcf.gz
+    SA532X7XB01216_A96177B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2577/results/hmmcopy/A96177B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2577/results/variant_calling/sample_SA532X7XB01216/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2577/results/variant_calling/sample_SA532X7XB01216/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2577/results/variant_calling/sample_SA532X7XB01216/strelka_snv.vcf.gz
+    SA532X8XB01398_A96145A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2578/results/hmmcopy/A96145A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2578/results/variant_calling/sample_SA532X8XB01398/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2578/results/variant_calling/sample_SA532X8XB01398/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2578/results/variant_calling/sample_SA532X8XB01398/strelka_snv.vcf.gz
+    SA532X9XB02755_A96162B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3055/results/hmmcopy/A96162B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3055/results/variant_calling/sample_SA532X9XB02755/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3055/results/variant_calling/sample_SA532X9XB02755/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3055/results/variant_calling/sample_SA532X9XB02755/strelka_snv.vcf.gz
+  SA535:
+    SA535X1XB00174_A96165B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2737/results/hmmcopy/A96165B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2737/results/variant_calling/sample_SA535X1XB00174/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2737/results/variant_calling/sample_SA535X1XB00174/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2737/results/variant_calling/sample_SA535X1XB00174/strelka_snv.vcf.gz
+    SA535X4XB00469_A96177A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2738/results/hmmcopy/A96177A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2738/results/variant_calling/sample_SA535X4XB00469/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2738/results/variant_calling/sample_SA535X4XB00469/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2738/results/variant_calling/sample_SA535X4XB00469/strelka_snv.vcf.gz
+    SA535X4XB02498_A95625A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3054/results/hmmcopy/A95625A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3054/results/variant_calling/sample_SA535X4XB02498/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3054/results/variant_calling/sample_SA535X4XB02498/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3054/results/variant_calling/sample_SA535X4XB02498/strelka_snv.vcf.gz
+    SA535X4XB02498_A95697A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2744/results/hmmcopy/A95697A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2744/results/variant_calling/sample_SA535X4XB02498/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2744/results/variant_calling/sample_SA535X4XB02498/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2744/results/variant_calling/sample_SA535X4XB02498/strelka_snv.vcf.gz
+    SA535X4XB05391_A96201B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3784/results/hmmcopy/A96201B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3784/results/variant_calling/sample_SA535X4XB05391/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3784/results/variant_calling/sample_SA535X4XB05391/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3784/results/variant_calling/sample_SA535X4XB05391/strelka_snv.vcf.gz
+    SA535X4XB05462_A98194A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2718/results/hmmcopy/A98194A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2718/results/variant_calling/sample_SA535X4XB05462/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2718/results/variant_calling/sample_SA535X4XB05462/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2718/results/variant_calling/sample_SA535X4XB05462/strelka_snv.vcf.gz
+    SA535X4XB05649_A98232A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3173/results/hmmcopy/A98232A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3173/results/variant_calling/sample_SA535X4XB05649/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3173/results/variant_calling/sample_SA535X4XB05649/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3173/results/variant_calling/sample_SA535X4XB05649/strelka_snv.vcf.gz
+    SA535X4XB05649_A98261A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3213/results/hmmcopy/A98261A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3213/results/variant_calling/sample_SA535X4XB05649/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3213/results/variant_calling/sample_SA535X4XB05649/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3213/results/variant_calling/sample_SA535X4XB05649/strelka_snv.vcf.gz
+    SA535X4XB05649_A98277B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2716/results/hmmcopy/A98277B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2716/results/variant_calling/sample_SA535X4XB05649/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2716/results/variant_calling/sample_SA535X4XB05649/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2716/results/variant_calling/sample_SA535X4XB05649/strelka_snv.vcf.gz
+    SA535X5XB00517_A95732A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2740/results/hmmcopy/A95732A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2740/results/variant_calling/sample_SA535X5XB00517/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2740/results/variant_calling/sample_SA535X5XB00517/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2740/results/variant_calling/sample_SA535X5XB00517/strelka_snv.vcf.gz
+    SA535X5XB02895_A96233A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2822/results/hmmcopy/A96233A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2822/results/variant_calling/sample_SA535X5XB02895/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2822/results/variant_calling/sample_SA535X5XB02895/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2822/results/variant_calling/sample_SA535X5XB02895/strelka_snv.vcf.gz
+    SA535X6XB03099_A98285A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3048/results/hmmcopy/A98285A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3048/results/variant_calling/sample_SA535X6XB03099/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3048/results/variant_calling/sample_SA535X6XB03099/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3048/results/variant_calling/sample_SA535X6XB03099/strelka_snv.vcf.gz
+    SA535X8XB01275_A96215B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2743/results/hmmcopy/A96215B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2743/results/variant_calling/sample_SA535X8XB01275/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2743/results/variant_calling/sample_SA535X8XB01275/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2743/results/variant_calling/sample_SA535X8XB01275/strelka_snv.vcf.gz
+  SA604:
+    SA604X6XB01972_A96177C:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2810/results/hmmcopy/A96177C_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2810/results/variant_calling/sample_SA604X6XB01972/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2810/results/variant_calling/sample_SA604X6XB01972/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2810/results/variant_calling/sample_SA604X6XB01972/strelka_snv.vcf.gz
+    SA604X6XB01975_A96180A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3233/results/hmmcopy/A96180A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3233/results/variant_calling/sample_SA604X6XB01975/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3233/results/variant_calling/sample_SA604X6XB01975/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3233/results/variant_calling/sample_SA604X6XB01975/strelka_snv.vcf.gz
+    SA604X6XB01979_A95722A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2812/results/hmmcopy/A95722A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2812/results/variant_calling/sample_SA604X6XB01979/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2812/results/variant_calling/sample_SA604X6XB01979/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2812/results/variant_calling/sample_SA604X6XB01979/strelka_snv.vcf.gz
+    SA604X7XB02089_A96175A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2813/results/hmmcopy/A96175A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2813/results/variant_calling/sample_SA604X7XB02089/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2813/results/variant_calling/sample_SA604X7XB02089/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2813/results/variant_calling/sample_SA604X7XB02089/strelka_snv.vcf.gz
+    SA604X7XB02089_A96212B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2814/results/hmmcopy/A96212B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2814/results/variant_calling/sample_SA604X7XB02089/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2814/results/variant_calling/sample_SA604X7XB02089/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2814/results/variant_calling/sample_SA604X7XB02089/strelka_snv.vcf.gz
+    SA604X8XB02204_A96161A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2816/results/hmmcopy/A96161A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2816/results/variant_calling/sample_SA604X8XB02204/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2816/results/variant_calling/sample_SA604X8XB02204/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2816/results/variant_calling/sample_SA604X8XB02204/strelka_snv.vcf.gz
+    SA604X8XB02240_A96141A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3776/results/hmmcopy/A96141A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3776/results/variant_calling/sample_SA604X8XB02240/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3776/results/variant_calling/sample_SA604X8XB02240/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3776/results/variant_calling/sample_SA604X8XB02240/strelka_snv.vcf.gz
+  SA609:
+    SA609X10XB02454_A96219B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2590/results/hmmcopy/A96219B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2590/results/variant_calling/sample_SA609X10XB02454/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2590/results/variant_calling/sample_SA609X10XB02454/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2590/results/variant_calling/sample_SA609X10XB02454/strelka_snv.vcf.gz
+    SA609X1XB00290_A96172A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2581/results/hmmcopy/A96172A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2581/results/variant_calling/sample_SA609X1XB00290/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2581/results/variant_calling/sample_SA609X1XB00290/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2581/results/variant_calling/sample_SA609X1XB00290/strelka_snv.vcf.gz
+    SA609X2XB00426_A96149A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3047/results/hmmcopy/A96149A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3047/results/variant_calling/sample_SA609X2XB00426/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3047/results/variant_calling/sample_SA609X2XB00426/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3047/results/variant_calling/sample_SA609X2XB00426/strelka_snv.vcf.gz
+    SA609X3XB01584_A95724A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2583/results/hmmcopy/A95724A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2583/results/variant_calling/sample_SA609X3XB01584/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2583/results/variant_calling/sample_SA609X3XB01584/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2583/results/variant_calling/sample_SA609X3XB01584/strelka_snv.vcf.gz
+    SA609X4XB01721_A95664B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3434/results/hmmcopy/A95664B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3434/results/variant_calling/sample_SA609X4XB01721/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3434/results/variant_calling/sample_SA609X4XB01721/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3434/results/variant_calling/sample_SA609X4XB01721/strelka_snv.vcf.gz
+    SA609X5XB01844_A95724B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2585/results/hmmcopy/A95724B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2585/results/variant_calling/sample_SA609X5XB01844/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2585/results/variant_calling/sample_SA609X5XB01844/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2585/results/variant_calling/sample_SA609X5XB01844/strelka_snv.vcf.gz
+    SA609X6XB01899_A95632D:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2586/results/hmmcopy/A95632D_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2586/results/variant_calling/sample_SA609X6XB01899/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2586/results/variant_calling/sample_SA609X6XB01899/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2586/results/variant_calling/sample_SA609X6XB01899/strelka_snv.vcf.gz
+    SA609X7XB02184_A95728A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2587/results/hmmcopy/A95728A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2587/results/variant_calling/sample_SA609X7XB02184/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2587/results/variant_calling/sample_SA609X7XB02184/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2587/results/variant_calling/sample_SA609X7XB02184/strelka_snv.vcf.gz
+    SA609X8XB02312_A96184A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2588/results/hmmcopy/A96184A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2588/results/variant_calling/sample_SA609X8XB02312/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2588/results/variant_calling/sample_SA609X8XB02312/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2588/results/variant_calling/sample_SA609X8XB02312/strelka_snv.vcf.gz
+    SA609X9XB02360_A96217B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2589/results/hmmcopy/A96217B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2589/results/variant_calling/sample_SA609X9XB02360/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2589/results/variant_calling/sample_SA609X9XB02360/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2589/results/variant_calling/sample_SA609X9XB02360/strelka_snv.vcf.gz
+  SA906a:
+    SA906_A96146A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2608/results/hmmcopy/A96146A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2608/results/variant_calling/sample_SA906/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2608/results/variant_calling/sample_SA906/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2608/results/variant_calling/sample_SA906/strelka_snv.vcf.gz
+    SA906_A96175C:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2605/results/hmmcopy/A96175C_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2605/results/variant_calling/sample_SA906/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2605/results/variant_calling/sample_SA906/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2605/results/variant_calling/sample_SA906/strelka_snv.vcf.gz
+    SA906_A96180B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2602/results/hmmcopy/A96180B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2602/results/variant_calling/sample_SA906/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2602/results/variant_calling/sample_SA906/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2602/results/variant_calling/sample_SA906/strelka_snv.vcf.gz
+    SA906_A96183C:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3022/results/hmmcopy/A96183C_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3022/results/variant_calling/sample_SA906/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3022/results/variant_calling/sample_SA906/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3022/results/variant_calling/sample_SA906/strelka_snv.vcf.gz
+    SA906_A96186A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3025/results/hmmcopy/A96186A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3025/results/variant_calling/sample_SA906/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3025/results/variant_calling/sample_SA906/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3025/results/variant_calling/sample_SA906/strelka_snv.vcf.gz
+    SA906_A96210C:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3023/results/hmmcopy/A96210C_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3023/results/variant_calling/sample_SA906/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3023/results/variant_calling/sample_SA906/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3023/results/variant_calling/sample_SA906/strelka_snv.vcf.gz
+    SA906_A96216A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2604/results/hmmcopy/A96216A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2604/results/variant_calling/sample_SA906/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2604/results/variant_calling/sample_SA906/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2604/results/variant_calling/sample_SA906/strelka_snv.vcf.gz
+  SA906b:
+    SA906_A96149B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3021/results/hmmcopy/A96149B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3021/results/variant_calling/sample_SA906/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3021/results/variant_calling/sample_SA906/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3021/results/variant_calling/sample_SA906/strelka_snv.vcf.gz
+    SA906_A96155B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3028/results/hmmcopy/A96155B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3028/results/variant_calling/sample_SA906/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3028/results/variant_calling/sample_SA906/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3028/results/variant_calling/sample_SA906/strelka_snv.vcf.gz
+    SA906_A96172B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3026/results/hmmcopy/A96172B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3026/results/variant_calling/sample_SA906/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3026/results/variant_calling/sample_SA906/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3026/results/variant_calling/sample_SA906/strelka_snv.vcf.gz
+    SA906_A96211C:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2610/results/hmmcopy/A96211C_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2610/results/variant_calling/sample_SA906/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2610/results/variant_calling/sample_SA906/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2610/results/variant_calling/sample_SA906/strelka_snv.vcf.gz
+    SA906_A96215A:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2609/results/hmmcopy/A96215A_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2609/results/variant_calling/sample_SA906/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2609/results/variant_calling/sample_SA906/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2609/results/variant_calling/sample_SA906/strelka_snv.vcf.gz
+    SA906_A96220B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-2613/results/hmmcopy/A96220B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-2613/results/variant_calling/sample_SA906/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-2613/results/variant_calling/sample_SA906/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-2613/results/variant_calling/sample_SA906/strelka_snv.vcf.gz
+    SA906_A96228B:
+      datatype: SCWGS
+      filter_normal: false
+      hmmcopy_csv: /work/shah/tantalus/SC-3009/results/hmmcopy/A96228B_reads.csv.gz
+      museq_vcf: /work/shah/tantalus/SC-3009/results/variant_calling/sample_SA906/museq.vcf.gz
+      strelka_indel_vcf: /work/shah/tantalus/SC-3009/results/variant_calling/sample_SA906/strelka_indel.vcf.gz
+      strelka_vcf: /work/shah/tantalus/SC-3009/results/variant_calling/sample_SA906/strelka_snv.vcf.gz
